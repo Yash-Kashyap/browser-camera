@@ -14,4 +14,4 @@
 - Run the index.html file
 - Start using the camera!!
 
-#### Try it here: 
+#### Try it here: https://yash-kashyap.github.io/browser-camera/
